@@ -1,3 +1,3 @@
-D:/CLionProjects/study/cmake-build-release/CMakeFiles/study.dir
-D:/CLionProjects/study/cmake-build-release/CMakeFiles/edit_cache.dir
-D:/CLionProjects/study/cmake-build-release/CMakeFiles/rebuild_cache.dir
+D:/CLionProjects/poly/cmake-build-release/CMakeFiles/poly.dir
+D:/CLionProjects/poly/cmake-build-release/CMakeFiles/edit_cache.dir
+D:/CLionProjects/poly/cmake-build-release/CMakeFiles/rebuild_cache.dir

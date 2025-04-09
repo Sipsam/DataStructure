@@ -1,4 +1,4 @@
-"C:\Users\JSW\AppData\Local\JetBrains\CLion 2024.3.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release "-DCMAKE_MAKE_PROGRAM=C:/Users/JSW/AppData/Local/JetBrains/CLion 2024.3.4/bin/ninja/win/x64/ninja.exe" -G Ninja -S D:\CLionProjects\study -B D:\CLionProjects\study\cmake-build-release
--- Configuring done (0.7s)
--- Generating done (0.2s)
--- Build files have been written to: D:/CLionProjects/study/cmake-build-release
+"C:\Users\JSW\AppData\Local\JetBrains\CLion 2024.3.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release "-DCMAKE_MAKE_PROGRAM=C:/Users/JSW/AppData/Local/JetBrains/CLion 2024.3.4/bin/ninja/win/x64/ninja.exe" -G Ninja -S D:\CLionProjects\poly -B D:\CLionProjects\poly\cmake-build-release
+-- Configuring done (0.9s)
+-- Generating done (0.3s)
+-- Build files have been written to: D:/CLionProjects/poly/cmake-build-release

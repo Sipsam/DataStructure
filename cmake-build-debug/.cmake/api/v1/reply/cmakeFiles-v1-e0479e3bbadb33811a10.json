@@ -6,7 +6,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "cmake-build-release/CMakeFiles/3.30.5/CMakeSystem.cmake"
+			"path" : "cmake-build-debug/CMakeFiles/3.30.5/CMakeSystem.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -20,7 +20,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "cmake-build-release/CMakeFiles/3.30.5/CMakeCCompiler.cmake"
+			"path" : "cmake-build-debug/CMakeFiles/3.30.5/CMakeCCompiler.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -84,7 +84,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "cmake-build-release/CMakeFiles/3.30.5/CMakeRCCompiler.cmake"
+			"path" : "cmake-build-debug/CMakeFiles/3.30.5/CMakeRCCompiler.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -110,8 +110,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "D:/CLionProjects/study/cmake-build-release",
-		"source" : "D:/CLionProjects/study"
+		"build" : "D:/CLionProjects/poly/cmake-build-debug",
+		"source" : "D:/CLionProjects/poly"
 	},
 	"version" : 
 	{

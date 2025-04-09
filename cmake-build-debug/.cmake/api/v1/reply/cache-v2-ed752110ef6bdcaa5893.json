@@ -43,7 +43,7 @@
 				}
 			],
 			"type" : "STRING",
-			"value" : "Release"
+			"value" : "Debug"
 		},
 		{
 			"name" : "CMAKE_CACHEFILE_DIR",
@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/CLionProjects/study/cmake-build-release"
+			"value" : "d:/CLionProjects/poly/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -431,7 +431,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/CLionProjects/study/cmake-build-release/CMakeFiles/pkgRedirects"
+			"value" : "D:/CLionProjects/poly/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -503,7 +503,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/CLionProjects/study"
+			"value" : "D:/CLionProjects/poly"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -731,7 +731,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "study"
+			"value" : "poly"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1138,6 +1138,42 @@
 			"value" : "TRUE"
 		},
 		{
+			"name" : "poly_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "D:/CLionProjects/poly/cmake-build-debug"
+		},
+		{
+			"name" : "poly_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "poly_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "D:/CLionProjects/poly"
+		},
+		{
 			"name" : "study_BINARY_DIR",
 			"properties" : 
 			[
@@ -1147,7 +1183,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/CLionProjects/study/cmake-build-release"
+			"value" : "D:/CLionProjects/poly/cmake-build-debug"
 		},
 		{
 			"name" : "study_IS_TOP_LEVEL",
@@ -1171,7 +1207,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/CLionProjects/study"
+			"value" : "D:/CLionProjects/poly"
 		}
 	],
 	"kind" : "cache",
